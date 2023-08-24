@@ -4,6 +4,7 @@
 # (3) Average speed of wind in month of january
 __parsed_rows = []
 
+
 def parse_csv():
     import csv
     __file_path = "nyc_weather.csv"
