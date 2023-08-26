@@ -32,3 +32,7 @@ print('Binary of number 17 is:',format(num,'b')) # Ans: 10001
 # 5. Print binary representation of number 16
 num=16
 print('Binary of number 16 is:',format(num,'b')) # Ans: 10000
+
+# 6. Print binary representation of number 216
+num=216
+print('Binary of number 216 is:',format(num,'b')) # Ans: 10000
